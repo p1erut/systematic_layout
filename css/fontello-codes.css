@@ -1,6 +1,7 @@
 
 .icon-search:before { content: '\e800'; } /* '' */
 .icon-down-open:before { content: '\e801'; } /* '' */
+.icon-cancel:before { content: '\e802'; } /* '' */
 .icon-menu:before { content: '\f0c9'; } /* '' */
 .icon-twitter-circled:before { content: '\f30a'; } /* '' */
 .icon-gplus-circled:before { content: '\f310'; } /* '' */
